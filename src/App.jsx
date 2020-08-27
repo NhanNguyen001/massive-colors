@@ -24,7 +24,6 @@ class App extends React.Component {
           exact
           path='/palette/:id'
           render={(routeProps) => {
-            console.log(routeProps);
             return (
               <Palette
                 palette={generatePalette(

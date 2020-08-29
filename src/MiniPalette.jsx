@@ -23,12 +23,12 @@ const styles = {
     margin: '0',
     color: 'black',
     paddingTop: '0.5rem',
-    fontSize: '1rem',
+    fontSize: '0.8rem',
     position: 'relative',
   },
   emoji: {
-    marginLeft: '1.5rem',
-    fontSize: '1.5rem',
+    marginLeft: '1.2rem',
+    fontSize: '1.2rem',
   },
 };
 
